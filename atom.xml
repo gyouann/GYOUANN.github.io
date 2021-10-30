@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://gyouann.github.io</id>
+    <title>GYOUANN</title>
+    <updated>2021-10-30T14:55:39.908Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://gyouann.github.io"/>
+    <link rel="self" href="https://gyouann.github.io/atom.xml"/>
+    <subtitle>暁闇个人站</subtitle>
+    <logo>https://gyouann.github.io/images/avatar.png</logo>
+    <icon>https://gyouann.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2021, GYOUANN</rights>
+</feed>
